@@ -1,3 +1,3 @@
-# sorting
-selection sort
-sorting program in python
+# calculator
+calculator project
+small project in python
