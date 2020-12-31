@@ -1,3 +1,3 @@
 # calculator
-calculator project
+python programs
 small project in python
